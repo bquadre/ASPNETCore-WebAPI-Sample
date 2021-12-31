@@ -6,7 +6,7 @@ This repository contains a controller which is dealing with FoodItems. You can G
 
 Hope this helps.
 
-See the examples here: Thank you us
+See the examples here: Thank you us/ma
 
 ## Versions
 
